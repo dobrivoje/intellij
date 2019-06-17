@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="com.vaadin.addon.contextmenu.ContextMenu.addItem(caption,command)" />
+        <added pattern="infra.events.DashboardEvent.DynamicUpdateEvent.DynamicUpdateEvent(params)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>
