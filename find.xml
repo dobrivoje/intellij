@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\data\src\main\resources\META-INF\persistence.xml [data]'" />
-    <option name="defaultScopeName" value="File '...\data\src\main\resources\META-INF\persistence.xml [data]'" />
-    <option name="SEARCH_SCOPE" value="File '...\data\src\main\resources\META-INF\persistence.xml [data]'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
