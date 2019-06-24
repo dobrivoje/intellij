@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="PostgresPLSQL" injector-id="xml">
+      <display-name>persistence</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("persistence")).withNamespace(string().equalTo("http://xmlns.jcp.org/xml/ns/persistence"))]]></place>
+    </injection>
+  </component>
+</application>
