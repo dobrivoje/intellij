@@ -11,6 +11,7 @@
         <entry key="LiveBeansClassLineMarkerProvider" value="true" />
         <entry key="LiveBeansDomLineMarkerProvider" value="true" />
         <entry key="LiveRequestMappingLineMarkerProvider" value="true" />
+        <entry key="MessageHandlerLineMarkerProvider" value="true" />
         <entry key="ModelDependenciesLineMarkerProviderJava" value="true" />
         <entry key="ModelDependenciesLineMarkerProviderXml" value="true" />
         <entry key="SpringAopAnnotator" value="true" />
@@ -37,12 +38,20 @@
         <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
         <entry key="com.intellij.ws.http.request.codeInsight.HttpRequestDiffLineMarkerProvider" value="true" />
+        <entry key="devkit.beforeAfter" value="true" />
+        <entry key="devkit.description" value="true" />
         <entry key="java.implemented" value="true" />
         <entry key="java.implementing" value="true" />
         <entry key="java.lambda" value="false" />
         <entry key="java.overridden" value="true" />
         <entry key="java.overriding" value="true" />
         <entry key="java.service" value="true" />
+        <entry key="java.sibling.inherited" value="true" />
+        <entry key="js.implemented" value="true" />
+        <entry key="js.implementing" value="true" />
+        <entry key="js.overridden" value="true" />
+        <entry key="js.overriding" value="true" />
+        <entry key="org.jetbrains.idea.devkit.navigation.ExtensionDeclarationRelatedItemLineMarkerProvider" value="true" />
       </map>
     </option>
   </component>

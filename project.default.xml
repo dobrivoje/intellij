@@ -43,7 +43,7 @@
       <component name="PropertiesComponent">
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+        <property name="settings.editor.selected.configurable" value="project.scopes" />
       </component>
       <component name="masterDetails">
         <states>
@@ -54,6 +54,17 @@
                 <option name="proportions">
                   <list>
                     <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.36787564" />
                   </list>
                 </option>
               </splitter-proportions>
