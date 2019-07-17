@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="rucaj21@LOCALHOST" uuid="701a1f26-e8fe-4ab8-aa12-91a96051e313">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/rucaj21</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="rucaj21@MAXIMUS" uuid="a533ef14-105c-449d-a2bb-612a4614a854">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://88.99.225.93:5432/rucaj21</jdbc-url>
+    </data-source>
+  </component>
+</application>
