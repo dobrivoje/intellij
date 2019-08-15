@@ -223,20 +223,6 @@
         <section>
           <rule>
             <match>
-              <METHOD>true</METHOD>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
-              <INTERFACE>true</INTERFACE>
-            </match>
-          </rule>
-        </section>
-        <section>
-          <rule>
-            <match>
               <AND>
                 <CLASS>true</CLASS>
                 <STATIC>true</STATIC>
@@ -254,10 +240,7 @@
         <section>
           <rule>
             <match>
-              <AND>
-                <METHOD>true</METHOD>
-                <STATIC>true</STATIC>
-              </AND>
+              <STATIC>true</STATIC>
             </match>
           </rule>
         </section>
