@@ -244,6 +244,18 @@
             </match>
           </rule>
         </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <NAME>public static void main</NAME>
+                <PUBLIC>true</PUBLIC>
+                <STATIC>true</STATIC>
+              </AND>
+            </match>
+          </rule>
+        </section>
       </rules>
     </arrangement>
   </codeStyleSettings>
